@@ -7,7 +7,6 @@ using namespace std;
 
 void log();
 
-
 int main()
   {
       log(); 
