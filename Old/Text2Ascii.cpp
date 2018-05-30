@@ -18,9 +18,5 @@ int main()
     std::getline(cin, plainText);
     convertToASCII(plainText);
   
-  
-  
-  
-  
     return 0;
 }
