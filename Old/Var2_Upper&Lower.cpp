@@ -5,7 +5,6 @@
 
 using namespace std;
 
-
 int main()
   {
     log(); 
@@ -55,22 +54,3 @@ void log()
        }
   }
 }  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
